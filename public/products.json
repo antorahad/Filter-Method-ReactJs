@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "price": 599.99,
+        "stock": "available"
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "price": 1099.99,
+        "stock": "unavailable"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 99.95,
+        "stock": "available"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 249.50,
+        "stock": "unavailable"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Speaker",
+        "price": 79.99,
+        "stock": "available"
+    },
+    {
+        "id": 6,
+        "name": "Camera",
+        "price": 399.00,
+        "stock": "available"
+    },
+    {
+        "id": 7,
+        "name": "Tablet",
+        "price": 299.99,
+        "stock": "unavailable"
+    },
+    {
+        "id": 8,
+        "name": "Gaming Console",
+        "price": 499.95,
+        "stock": "available"
+    },
+    {
+        "id": 9,
+        "name": "Fitness Tracker",
+        "price": 129.50,
+        "stock": "available"
+    },
+    {
+        "id": 10,
+        "name": "External Hard Drive",
+        "price": 89.99,
+        "stock": "unavailable"
+    },
+    {
+        "id": 11,
+        "name": "Desk Chair",
+        "price": 199.00,
+        "stock": "available"
+    },
+    {
+        "id": 12,
+        "name": "Coffee Maker",
+        "price": 49.95,
+        "stock": "available"
+    },
+    {
+        "id": 13,
+        "name": "Hiking Backpack",
+        "price": 79.50,
+        "stock": "available"
+    },
+    {
+        "id": 14,
+        "name": "Sneakers",
+        "price": 129.99,
+        "stock": "unavailable"
+    },
+    {
+        "id": 15,
+        "name": "Kitchen Knife Set",
+        "price": 69.95,
+        "stock": "available"
+    },
+    {
+        "id": 16,
+        "name": "Yoga Mat",
+        "price": 29.99,
+        "stock": "unavailable"
+    },
+    {
+        "id": 17,
+        "name": "Back Massager",
+        "price": 49.50,
+        "stock": "available"
+    },
+    {
+        "id": 18,
+        "name": "LED Desk Lamp",
+        "price": 39.99,
+        "stock": "available"
+    },
+    {
+        "id": 19,
+        "name": "Portable Charger",
+        "price": 24.95,
+        "stock": "unavailable"
+    },
+    {
+        "id": 20,
+        "name": "Bluetooth Earbuds",
+        "price": 59.99,
+        "stock": "available"
+    }
+]
